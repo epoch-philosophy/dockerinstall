@@ -1,5 +1,5 @@
 # dockerinstall
-Boring template for Ubuntu Server. I usually find new reasons to spin up a server and want a simple way to automate common installations without Ansible.
+Boring template for Ubuntu Server. I usually find new reasons to spin up a server and want a simple way to automate common installations without Ansible. Copy and paste is easier sometimes!
 
 ```bash
 # Update Apt so I can use HTTPS:
